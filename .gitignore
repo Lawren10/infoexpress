@@ -1,0 +1,31 @@
+*.pyc
+__pycache__
+
+# Virtual environment
+venv/
+env/
+./env
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Media files (if not version-controlled)
+media/*
+
+# database files
+# db.sqlite3
+
+# Local settings
+local_settings.py
+
+# Testing and coverage
+htmlcov/
+.tox/
+.coverage
+
+# IDE/editor settings (adjust as needed)
+.vscode/
+.idea/
